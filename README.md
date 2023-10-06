@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdk3410
 - 👀 I’m interested in storing my work somewhere
-- 🌱 I’m currently a github whitebelt
+- 🌱 I’m currently a github brownbelt 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me send me a message here ;^) xd
 
